@@ -1,0 +1,17 @@
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/obj/Debug/Assembly-CSharp.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/UnityEngine.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/UnityEditor.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Mono.Cecil.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Unity.DataContract.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/billzeng2k/Desktop/Unity Games/Bad Graphics Good Game/Temp/bin/Debug/Mono.Cecil.Mdb.dll

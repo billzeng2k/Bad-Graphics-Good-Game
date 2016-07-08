@@ -1,0 +1,866 @@
+fileFormatVersion: 2
+guid: 87d0e5fa818a7421fb47b92076d926ce
+timeCreated: 1466990512
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle1
+    21300002: idle2
+    21300004: walk1
+    21300006: walk2
+    21300008: walk3
+    21300010: walk4
+    21300012: walk5
+    21300014: walk6
+    21300016: walk7
+    21300018: walk8
+    21300020: sprites_10
+    21300022: jump1low
+    21300024: jump2low
+    21300026: jump3low
+    21300028: sprites_14
+    21300030: HJump1
+    21300032: HJump2
+    21300034: HJump3
+    21300036: fall1
+    21300038: fall2
+    21300040: fall3
+    21300042: Sfall1
+    21300044: Sfall2
+    21300046: Sfall3
+    21300048: att1
+    21300050: att2
+    21300052: att3
+    21300054: att4
+    21300056: evade1
+    21300058: evade2
+    21300060: airAtt1
+    21300062: AirAttack1
+    21300064: AirAttack2
+    21300066: AirAttack3
+    21300068: AirAttack4
+    21300070: AirAttack5
+    21300072: AirAttack6
+    21300074: AirAttack7
+    21300076: AirAttack8
+    21300078: Evade1
+    21300080: Evade2
+    21300082: run1
+    21300084: run2
+    21300086: run3
+    21300088: run4
+    21300090: runAtt
+    21300092: shoot1
+    21300094: shoot2
+    21300096: shoot3
+    21300098: Jshoot1
+    21300100: Jshoot2
+    21300102: Jshoot3
+    21300104: shoot1done
+    21300106: shoot2done
+    21300108: shoot3done
+    21300110: Jshoot1done
+    21300112: Jshoot2done
+    21300114: Jshoot3done
+    21300116: wall1
+    21300118: wall2
+    21300120: wall3
+    21300122: SpellCast1
+    21300124: SpellCast2
+    21300126: SpellCast3
+    21300128: Eyes
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idle1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: idle2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 158
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 114
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 114
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 114
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 114
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 114
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 114
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+    - name: sprites_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 124
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: jump1low
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: jump2low
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 65
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: jump3low
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 20
+        height: 42
+      alignment: 9
+      pivot: {x: 0.43326664, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HJump1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 65
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HJump2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 65
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HJump3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 65
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fall1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fall2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 16
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fall3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 16
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sfall1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 22
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sfall2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 22
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sfall3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 22
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: att1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 207
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: att2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 207
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55123025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: att3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 208
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: att4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 208
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5945787, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.188568, y: 19}
+        - {x: -16.188568, y: 18}
+        - {x: -23.188568, y: 9}
+        - {x: -23.188568, y: -12}
+        - {x: -16.188568, y: -21}
+        - {x: 15.811432, y: -21}
+        - {x: 15.811432, y: 18}
+        - {x: 8.811432, y: 19}
+    - name: AirAttack1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirAttack2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 347
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirAttack3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 354
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirAttack4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 352
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirAttack5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 343
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirAttack6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 342
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirAttack7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 311
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirAttack8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 314
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Evade1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 262
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Evade2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 262
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: run1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 400
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21}
+        - {x: -17.5, y: 13}
+        - {x: -17.5, y: -11}
+        - {x: -11.5, y: -21}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 13}
+        - {x: 15.5, y: 21}
+    - name: run2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 400
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 21}
+        - {x: -11.5, y: 14}
+        - {x: -17.5, y: 10}
+        - {x: -17.5, y: 3}
+        - {x: -13.5, y: -1}
+        - {x: -12.5, y: -21}
+        - {x: 16.5, y: -21}
+        - {x: 16.5, y: 17}
+        - {x: 14.5, y: 21}
+    - name: run3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 400
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 21}
+        - {x: -4.5, y: 21}
+        - {x: -9.5, y: 18}
+        - {x: -17.5, y: 8}
+        - {x: -17.5, y: -1}
+        - {x: -11.5, y: -1}
+        - {x: -9.5, y: -12}
+        - {x: -4.5, y: -21}
+        - {x: 11.5, y: -21}
+        - {x: 11.5, y: -19}
+        - {x: 16.5, y: 1}
+        - {x: 16.5, y: 19}
+    - name: run4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 400
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 21}
+        - {x: -17.5, y: 14}
+        - {x: -17.5, y: 0}
+        - {x: -2.5, y: -21}
+        - {x: 7.5, y: -21}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 20}
+        - {x: 14.5, y: 21}
+    - name: runAtt
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 452
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 20}
+        - {x: -18.5, y: 9}
+        - {x: -18.5, y: -5}
+        - {x: -12.5, y: -21}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 10}
+        - {x: 11.5, y: 20}
+    - name: shoot1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 496
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shoot2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 496
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shoot3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 496
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jshoot1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 496
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jshoot2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 496
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jshoot3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 496
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shoot1done
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 541
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shoot2done
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 541
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shoot3done
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 541
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jshoot1done
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 541
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jshoot2done
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 541
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jshoot3done
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 541
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wall1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 448
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.790001, y: 21}
+        - {x: -24.79, y: 11}
+        - {x: -24.79, y: 4}
+        - {x: -19.79, y: 1}
+        - {x: -16.79, y: 1}
+        - {x: -10.790001, y: -4}
+        - {x: -3.790001, y: -21}
+        - {x: 12.209999, y: -21}
+        - {x: 12.209999, y: 21}
+    - name: wall2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 448
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.790009, y: 21}
+        - {x: -24.790009, y: 17}
+        - {x: -24.790009, y: -6}
+        - {x: -9.790009, y: -21}
+        - {x: 12.209991, y: -21}
+        - {x: 12.209991, y: 21}
+    - name: wall3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 448
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.790009, y: 21}
+        - {x: -24.790009, y: 17}
+        - {x: -24.790009, y: -3}
+        - {x: -6.7900085, y: -21}
+        - {x: 12.209991, y: -21}
+        - {x: 12.209991, y: 20}
+        - {x: 11.209991, y: 21}
+    - name: SpellCast1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 160
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpellCast2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SpellCast3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 160
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Eyes
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 196
+        width: 7
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
